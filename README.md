@@ -5,6 +5,5 @@
  do curso de Git e GitHub no site (www.cursoemvideo.com); idealizdor <br>
  e proprietário do site: Professor Gustavo Guanabara (créditos pelo curso)
  
- Linha adicionada direto no GitHub, conforme instruções do professor
- 
+ Linha adicionada direto no GitHub, conforme instruções do professor <br>
  Gustavo Guanabara (Vídeo aula 05 - aprox.: 19:30 minutos)
