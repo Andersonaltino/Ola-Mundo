@@ -6,4 +6,5 @@
  e proprietário do site: Professor Gustavo Guanabara (créditos pelo curso)
  
  Linha adicionada direto no GitHub, conforme instruções do professor
+ 
  Gustavo Guanabara (Vídeo aula 05 - aprox.: 19:30 minutos)
